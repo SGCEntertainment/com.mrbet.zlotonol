@@ -7,11 +7,11 @@ env:
   UNITY_EMAIL: "unitydatastorage@gmail.com"
   UNITY_PASSWORD: "qwerty12345Q"
   
-  APP_NAME: "com.mrbet.slotsonl"
+  APP_NAME: "com.mrbet.zlotonol"
   
-  AndroidKeystorePass: "kdfmijk34hidf"
-  AndroidKeyaliasPass: "kdfmijk34hidf"
-  AndroidKeyaliasName: "begemod"
+  AndroidKeystorePass: "giwioaijdf"
+  AndroidKeyaliasPass: "giwioaijdf"
+  AndroidKeyaliasName: "morsaq"
   
   ChatID_APK: "-1001521204847"
   ChatID_AAB: "-1001521204847"
